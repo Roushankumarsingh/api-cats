@@ -1,0 +1,29 @@
+body
+{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/79/839/810/cat-cat-widescreen-wallpaper-preview.jpg");
+    background-size: cover;
+}
+.large 
+{
+    height: 600px; 
+    width: 1500px; 
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+    text-align: center;
+}
+button
+{
+    background-color: rgb(136, 216, 39);
+    color: black; 
+    border: 1px solid black; 
+    text-align: center;
+    font-size: 20px ;
+    font-weight: 800;
+    border-radius: 5px; 
+    box-shadow: 10px 10px 15px rgb(151, 83, 83); 
+}
+h1
+ {
+    color: maroon; 
+ }
